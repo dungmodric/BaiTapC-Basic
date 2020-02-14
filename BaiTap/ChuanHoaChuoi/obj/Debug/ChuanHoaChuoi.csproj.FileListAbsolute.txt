@@ -1,0 +1,7 @@
+D:\SAVIS\BaiTap\ChuanHoaChuoi\bin\Debug\ChuanHoaChuoi.exe.config
+D:\SAVIS\BaiTap\ChuanHoaChuoi\bin\Debug\ChuanHoaChuoi.exe
+D:\SAVIS\BaiTap\ChuanHoaChuoi\bin\Debug\ChuanHoaChuoi.pdb
+D:\SAVIS\BaiTap\ChuanHoaChuoi\obj\Debug\ChuanHoaChuoi.csprojAssemblyReference.cache
+D:\SAVIS\BaiTap\ChuanHoaChuoi\obj\Debug\ChuanHoaChuoi.csproj.CoreCompileInputs.cache
+D:\SAVIS\BaiTap\ChuanHoaChuoi\obj\Debug\ChuanHoaChuoi.exe
+D:\SAVIS\BaiTap\ChuanHoaChuoi\obj\Debug\ChuanHoaChuoi.pdb

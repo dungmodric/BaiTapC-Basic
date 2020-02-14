@@ -1,0 +1,14 @@
+D:\SAVIS\Chuyendoihecoso\Chuyendoihecoso\bin\Debug\Chuyendoihecoso.exe.config
+D:\SAVIS\Chuyendoihecoso\Chuyendoihecoso\bin\Debug\Chuyendoihecoso.exe
+D:\SAVIS\Chuyendoihecoso\Chuyendoihecoso\bin\Debug\Chuyendoihecoso.pdb
+D:\SAVIS\Chuyendoihecoso\Chuyendoihecoso\obj\Debug\Chuyendoihecoso.csprojAssemblyReference.cache
+D:\SAVIS\Chuyendoihecoso\Chuyendoihecoso\obj\Debug\Chuyendoihecoso.csproj.CoreCompileInputs.cache
+D:\SAVIS\Chuyendoihecoso\Chuyendoihecoso\obj\Debug\Chuyendoihecoso.exe
+D:\SAVIS\Chuyendoihecoso\Chuyendoihecoso\obj\Debug\Chuyendoihecoso.pdb
+D:\SAVIS\BaiTap\Chuyendoihecoso\bin\Debug\Chuyendoihecoso.exe.config
+D:\SAVIS\BaiTap\Chuyendoihecoso\bin\Debug\Chuyendoihecoso.exe
+D:\SAVIS\BaiTap\Chuyendoihecoso\bin\Debug\Chuyendoihecoso.pdb
+D:\SAVIS\BaiTap\Chuyendoihecoso\obj\Debug\Chuyendoihecoso.csprojAssemblyReference.cache
+D:\SAVIS\BaiTap\Chuyendoihecoso\obj\Debug\Chuyendoihecoso.csproj.CoreCompileInputs.cache
+D:\SAVIS\BaiTap\Chuyendoihecoso\obj\Debug\Chuyendoihecoso.exe
+D:\SAVIS\BaiTap\Chuyendoihecoso\obj\Debug\Chuyendoihecoso.pdb
