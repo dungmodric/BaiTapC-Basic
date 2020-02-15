@@ -1,0 +1,7 @@
+D:\BaiTapC-Basic\BaiTap\OOP-PhanSo\bin\Debug\OOP-PhanSo.exe.config
+D:\BaiTapC-Basic\BaiTap\OOP-PhanSo\bin\Debug\OOP-PhanSo.exe
+D:\BaiTapC-Basic\BaiTap\OOP-PhanSo\bin\Debug\OOP-PhanSo.pdb
+D:\BaiTapC-Basic\BaiTap\OOP-PhanSo\obj\Debug\OOP-PhanSo.csprojAssemblyReference.cache
+D:\BaiTapC-Basic\BaiTap\OOP-PhanSo\obj\Debug\OOP-PhanSo.csproj.CoreCompileInputs.cache
+D:\BaiTapC-Basic\BaiTap\OOP-PhanSo\obj\Debug\OOP-PhanSo.exe
+D:\BaiTapC-Basic\BaiTap\OOP-PhanSo\obj\Debug\OOP-PhanSo.pdb
