@@ -1,0 +1,7 @@
+D:\BaiTapC-Basic\BaiTap\OOP-SoPhuc\bin\Debug\OOP-SoPhuc.exe.config
+D:\BaiTapC-Basic\BaiTap\OOP-SoPhuc\bin\Debug\OOP-SoPhuc.exe
+D:\BaiTapC-Basic\BaiTap\OOP-SoPhuc\bin\Debug\OOP-SoPhuc.pdb
+D:\BaiTapC-Basic\BaiTap\OOP-SoPhuc\obj\Debug\OOP-SoPhuc.csproj.CoreCompileInputs.cache
+D:\BaiTapC-Basic\BaiTap\OOP-SoPhuc\obj\Debug\OOP-SoPhuc.exe
+D:\BaiTapC-Basic\BaiTap\OOP-SoPhuc\obj\Debug\OOP-SoPhuc.pdb
+D:\BaiTapC-Basic\BaiTap\OOP-SoPhuc\obj\Debug\OOP-SoPhuc.csprojAssemblyReference.cache
