@@ -1,0 +1,7 @@
+D:\BaiTapC-Basic\BaiTap\MangHaiChieu\bin\Debug\MangHaiChieu.exe.config
+D:\BaiTapC-Basic\BaiTap\MangHaiChieu\bin\Debug\MangHaiChieu.exe
+D:\BaiTapC-Basic\BaiTap\MangHaiChieu\bin\Debug\MangHaiChieu.pdb
+D:\BaiTapC-Basic\BaiTap\MangHaiChieu\obj\Debug\MangHaiChieu.csproj.CoreCompileInputs.cache
+D:\BaiTapC-Basic\BaiTap\MangHaiChieu\obj\Debug\MangHaiChieu.exe
+D:\BaiTapC-Basic\BaiTap\MangHaiChieu\obj\Debug\MangHaiChieu.pdb
+D:\BaiTapC-Basic\BaiTap\MangHaiChieu\obj\Debug\MangHaiChieu.csprojAssemblyReference.cache
