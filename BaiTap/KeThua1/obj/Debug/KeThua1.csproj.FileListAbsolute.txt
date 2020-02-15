@@ -1,0 +1,7 @@
+D:\BaiTapC-Basic\BaiTap\KeThua1\bin\Debug\KeThua1.exe.config
+D:\BaiTapC-Basic\BaiTap\KeThua1\bin\Debug\KeThua1.exe
+D:\BaiTapC-Basic\BaiTap\KeThua1\bin\Debug\KeThua1.pdb
+D:\BaiTapC-Basic\BaiTap\KeThua1\obj\Debug\KeThua1.csproj.CoreCompileInputs.cache
+D:\BaiTapC-Basic\BaiTap\KeThua1\obj\Debug\KeThua1.exe
+D:\BaiTapC-Basic\BaiTap\KeThua1\obj\Debug\KeThua1.pdb
+D:\BaiTapC-Basic\BaiTap\KeThua1\obj\Debug\KeThua1.csprojAssemblyReference.cache
