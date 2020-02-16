@@ -1,0 +1,7 @@
+D:\BaiTapC-Basic\BaiTap\Interface\bin\Debug\Interface.exe.config
+D:\BaiTapC-Basic\BaiTap\Interface\bin\Debug\Interface.exe
+D:\BaiTapC-Basic\BaiTap\Interface\bin\Debug\Interface.pdb
+D:\BaiTapC-Basic\BaiTap\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+D:\BaiTapC-Basic\BaiTap\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\BaiTapC-Basic\BaiTap\Interface\obj\Debug\Interface.exe
+D:\BaiTapC-Basic\BaiTap\Interface\obj\Debug\Interface.pdb
